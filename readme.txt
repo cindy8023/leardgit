@@ -1,7 +1,5 @@
 Git is a distributed version control system.
 Git is free software.dfggggfg
-Git is free software.dfggggfg
-git is boss
+Git is free software.stash
+git is stash
 
-new branch dev hahah 
-new branch dev hahah `````````
